@@ -4,8 +4,8 @@ Clone the repository
 
 Switch to the repo folder
 
-Run the database migrations
+Run the database migrations=
 php artisan migrate
 
-Start the local development server
+Start the local development server=
 php artisan serve
